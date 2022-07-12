@@ -1,15 +1,16 @@
 {
   "name": "pipeline-cache",
   "version": "0.0.0",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "sam bacha <sam@manifoldfinance.com>",
   "license": "Apache-2.0",
   "devDependencies": {
     "v8-compile-cache-lib": "^3.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hardhat": "^2.9.9"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sambacha/pipeline-cache.git"
